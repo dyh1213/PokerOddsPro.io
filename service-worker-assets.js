@@ -349,7 +349,7 @@
       "url": "Images\/spade.png"
     },
     {
-      "hash": "sha256-fUKcmkytnAlQ\/YRsTyZjnZ8eEc+QaLXfA1U55iBz5r8=",
+      "hash": "sha256-zw5coMVI68PoQtweBvIQMpVNhoO7dSwplN6pe5j0nAQ=",
       "url": "index.html"
     },
     {
